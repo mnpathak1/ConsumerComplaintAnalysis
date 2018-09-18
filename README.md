@@ -1,2 +1,2 @@
-# ConsumerComplaintAnalysis
+# Consumer Complaint Analysis
 This work predicts the category of a consumer complaint
