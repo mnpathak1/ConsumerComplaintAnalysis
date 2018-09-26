@@ -1,6 +1,9 @@
-# Consumer Complaint Analysis Summary
-This work predicts the category of a consumer complaint.   
-It is based on US consumer complaints dataset available on data.gov. Dataset already has information on classsifying the complaints for different categories (supervised learning).  
+## Dataset
+It is based on US consumer complaints dataset available on data.gov.   
+Dataset already has information on classsifying the complaints for different categories (supervised learning).  
+
+## Consumer Complaint Analysis Summary and Prediction Model
+This work predicts the category of a consumer complaint.     
 Text analysis and prediction model building were done using scikit-learn, plots were done using seaborn.   
 Consumer complaint narratives were transformed into vectors of numbers using TF-IDF weighted vector representation for model building.  
 Top 2 unigrams and bigrams were identified for each given class.  
